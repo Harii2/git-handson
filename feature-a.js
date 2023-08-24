@@ -1,3 +1,7 @@
 console.log("Feature a")
-var a = "hey hello from master"
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> feature-a
 var a = "hello a"
